@@ -1,0 +1,30 @@
+#listContainer {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+    width: 500px;
+}
+
+li {
+    display: inline-block;
+    line-height: 150px;
+    margin: 10px;
+    width: 500px;
+}
+
+#imageContainer {
+    float: left;
+    width: 150px;
+    height: 150px;
+}
+
+#titleContainer {
+    display: inline-block;
+    text-align: center;
+    width: 65%;
+    line-height: 20px;
+    vertical-align: middle;
+}
