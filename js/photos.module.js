@@ -1,4 +1,4 @@
 (function() {
     angular
-        .module("photos", ["ngResource"]);
+        .module("photos", ["ngResource", "fullSizeImage"]);
 })();
