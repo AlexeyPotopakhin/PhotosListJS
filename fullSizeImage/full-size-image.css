@@ -1,0 +1,16 @@
+.full-size-image-container {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,0.6);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.full-size-image-container img {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
